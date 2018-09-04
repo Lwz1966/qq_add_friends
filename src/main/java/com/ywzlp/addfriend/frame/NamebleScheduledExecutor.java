@@ -5,7 +5,7 @@ import java.util.concurrent.ThreadFactory;
 
 /**
  * 带名字的线程池
- * @author yuwei
+ * @author LiWen
  */
 public class NamebleScheduledExecutor extends ScheduledThreadPoolExecutor
 		implements NameableExecutorService {

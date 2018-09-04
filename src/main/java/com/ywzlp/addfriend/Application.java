@@ -7,7 +7,7 @@ import org.jb2011.lnf.beautyeye.BeautyEyeLNFHelper;
 import com.ywzlp.addfriend.ui.MyFrame;
 
 /**
- * @author yuwei
+ * @author LiWen
  */
 public class Application {
 

@@ -7,7 +7,7 @@ import java.io.PrintStream;
 import javax.swing.JTextArea;
 
 /**
- * @author yuwei
+ * @author LiWen
  *
  */
 public class LogTextArea extends JTextArea {

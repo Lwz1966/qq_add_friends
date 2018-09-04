@@ -2,7 +2,7 @@ package com.ywzlp.addfriend.authc;
 
 /**
  * 登录回调
- * @author yuwei
+ * @author LiWen
  *
  */
 public interface CallBack {

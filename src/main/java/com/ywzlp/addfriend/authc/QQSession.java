@@ -26,7 +26,7 @@ import net.dongliu.requests.struct.Cookie;
 /**
  * qq会话
  * 
- * @author yuwei
+ * @author LiWen
  *
  */
 public class QQSession {
@@ -218,7 +218,7 @@ public class QQSession {
 		formData.put("fupdate", 1);
 		formData.put("rd", Math.random());
 		//验证消息
-		formData.put("strmsg", "熟人介绍");
+		formData.put("strmsg", "1");
 		//组id
 		formData.put("groupId", 1);
 		formData.put("flag", 0);

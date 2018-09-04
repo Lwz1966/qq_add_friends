@@ -10,7 +10,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * 任务池
- * @author yuwei
+ * @author LiWen
  */
 public class TaskPool {
 	

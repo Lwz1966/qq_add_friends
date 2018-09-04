@@ -21,7 +21,7 @@ import com.ywzlp.addfriend.task.AddFriends;
 import com.ywzlp.addfriend.task.TaskExecutor;
 
 /**
- * @author yuwei
+ * @author LiWen
  *
  */
 public class MyFrame  extends JFrame {
@@ -84,9 +84,8 @@ public class MyFrame  extends JFrame {
 	}
 	
 	private void logVersion() {
-		log.info("-------------version: 1.0 for zlp------------");
-		log.info("-------------author: 余伟 --------------------");
-		log.info("-------------联系 : 15902773283---------------");
+		log.info("-------------version: 1.0 ------------");
+		log.info("-------------author: LiWen --------------------");
 	}
 	
 }

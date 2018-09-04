@@ -19,7 +19,7 @@ import org.slf4j.LoggerFactory;
 import com.ywzlp.addfriend.task.TaskPool;
 
 /**
- * @author yuwei
+ * @author LiWen
  *
  */
 public class ChooseFileButton extends JButton {

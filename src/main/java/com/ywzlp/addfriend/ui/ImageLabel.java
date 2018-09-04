@@ -12,7 +12,7 @@ import javax.swing.Icon;
 import javax.swing.ImageIcon;
 
 /**
- * @author yuwei
+ * @author LiWen
  *
  */
 public class ImageLabel extends javax.swing.JLabel {

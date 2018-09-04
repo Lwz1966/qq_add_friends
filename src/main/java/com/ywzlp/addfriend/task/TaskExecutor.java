@@ -11,7 +11,7 @@ import com.ywzlp.addfriend.authc.QQSession;
 import com.ywzlp.addfriend.frame.ExecutorUtil;
 
 /**
- * @author yuwei
+ * @author LiWen
  *
  */
 public class TaskExecutor implements AddFriends {
